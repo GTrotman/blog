@@ -1,0 +1,11 @@
+# basic options
+title: __100DaysofCode__
+author: Garth Trotman
+email: garth.trotman@gmail.com
+description: 100daysofcode
+twitter_username: garth_trotman
+github_username:  gtrotman
+
+# Build settings
+markdown: kramdown
+theme: minima
